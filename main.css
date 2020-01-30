@@ -1,0 +1,30 @@
+#TimeLine{
+    position: relative;
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    width: 50%;
+    height: auto;
+    background: linear-gradient(#dddddd, #dddddd) no-repeat center/2px 100%;
+    background-color: #eeeeee;
+}
+
+.RightTimelinepic{
+    position: relative;
+    width: 24%;
+    height: auto;
+    left: 15%;
+    /* background-color: yellow; */
+    margin-bottom: 2%;
+    box-shadow: 5px 5px grey;
+}
+
+.LeftTimelinepic{
+    position: relative;
+    width: 24%;
+    height: auto;
+    left: -15%;
+    /* background-color: blue; */
+    margin-bottom: 2%;
+    box-shadow: 5px 5px grey;
+}
